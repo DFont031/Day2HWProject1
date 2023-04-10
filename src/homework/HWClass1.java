@@ -7,9 +7,9 @@ public class HWClass1 {
 		
 	}
 	
-	public void display() {
+	public void pullTest() {
+		System.out.println("test");
 		
-		System.out.println("Pull example");
 	}
 
 }
